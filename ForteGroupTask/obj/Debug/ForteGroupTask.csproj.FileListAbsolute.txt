@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\bin\Debug\ForteGroupTask.exe.config
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\bin\Debug\ForteGroupTask.exe
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\bin\Debug\ForteGroupTask.pdb
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\obj\Debug\ForteGroupTask.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\obj\Debug\ForteGroupTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\obj\Debug\ForteGroupTask.exe
+C:\Users\user\Source\Repos\ForteGroupTask\ForteGroupTask\obj\Debug\ForteGroupTask.pdb
